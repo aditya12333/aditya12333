@@ -15,7 +15,7 @@
 <a href="https://medium.com/@adityapande107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adityapande107" height="30" width="40" /></a>
 </p>
 
-Innovative Data Scientist with 6+ years of experience in Software Development and Data Science. Working on reinforcing business solutions with Artiﬁcial Intelligence. Eager to bring expertise to solve new challenging problems. 
+Passionate Data Scientist skilled in Machine Learning, Natural Language Processing (NLP), and computer vision. Adept at enhancing business strategies through the application of Artificial Intelligence. Enthusiastic about tackling novel challenges and applying expertise to drive innovative solutions. 
 
 • Experience in Data Science which include Machine Learining, Natural Language Processing(NLP), Computer Vision.
 
