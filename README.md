@@ -46,8 +46,8 @@ Innovative Data Scientist with 6+ years of experience in Software Development an
 
 **Integrated Development Environment:** Jupyter-Notebook, Visual Studio, PyCharm.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya12333&show_icons=true&locale=en&layout=compact" alt="aditya12333" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya12333&show_icons=true&locale=en&layout=compact&theme=dark" alt="aditya12333" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya12333&show_icons=true&locale=en" alt="aditya12333" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya12333&show_icons=true&locale=en&theme=dark" alt="aditya12333" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya12333&" alt="aditya12333" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya12333&theme=dark" alt="aditya12333" /></p>
