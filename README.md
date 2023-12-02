@@ -36,7 +36,9 @@ Innovative Data Scientist with 6+ years of experience in Software Development an
 
 **Machine and Deep Learning Implementation Framework:** Scikit-Learn, PyTorch, Tensorflow, SciPy. 
 
-**Natural Language Processing:** NLTK, BERT. Development: Python, Flask, Fast API, Git. 
+**Natural Language Processing:** NLTK, BERT, Spacy.
+
+**Development:** Python, Flask, Fast API, Git. 
 
 **Data Visualization:** Matplotlib, Tableau, Seaborn. 
 
