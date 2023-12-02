@@ -32,17 +32,17 @@ Innovative Data Scientist with 6+ years of experience in Software Development an
 
 ### Tools | Frameworks 
 
-Data Preprocessing: NumPy, Pandas. 
+**Data Preprocessing:** NumPy, Pandas. 
 
-Machine and Deep Learning Implementation Framework: Scikit-Learn, PyTorch, Tensorflow. 
+**Machine and Deep Learning Implementation Framework:** Scikit-Learn, PyTorch, Tensorflow, SciPy. 
 
-Natural Language Processing: NLTK, BERT. Development: Python, Flask, Fast API, Git. 
+**Natural Language Processing:** NLTK, BERT. Development: Python, Flask, Fast API, Git. 
 
-Data Visualization: Matplotlib, Tableau, Seaborn. 
+**Data Visualization:** Matplotlib, Tableau, Seaborn. 
 
-Cloud Services: Azure, Google Colaboratory. 
+**Cloud Services:** Azure, Google Colaboratory. 
 
-Integrated Development Environment: Jupyter-Notebook, Visual Studio, PyCharm.
+**Integrated Development Environment:** Jupyter-Notebook, Visual Studio, PyCharm.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya12333&show_icons=true&locale=en&layout=compact" alt="aditya12333" /></p>
 
