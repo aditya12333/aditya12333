@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar Pandey</h1>
 <h3 align="center">A passionate Machine Learning Engineer, NLP Engineer and AI Engineer from India</h3>
-<img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="400">
+<img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya12333&label=Profile%20views&color=0e75b6&style=flat" alt="aditya12333" /> </p>
 
