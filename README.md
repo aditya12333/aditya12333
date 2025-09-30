@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya12333&label=Profile%20views&color=0e75b6&style=flat" alt="aditya12333" /> </p>
 
-- 🔭 I’m currently working on **Master Data Science and AI**
+- 🔭 I’m currently enrolled into **Master Data Science at The London School of Economics and Political Science**
 - 📝 I regularly write articles on [https://adityapande107.medium.com/](https://adityapande107.medium.com/)
 
 - 📫 How to reach me **adityapande107@gmail.com**
