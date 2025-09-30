@@ -42,7 +42,7 @@ Passionate Data Scientist skilled in Machine Learning, Natural Language Processi
 
 **Data Visualization:** Matplotlib, Tableau, Seaborn. 
 
-**Cloud Services:** Azure, Google Colaboratory. 
+**Cloud Services:** Azure, AWS, Google Cloud Platform (GCP). 
 
 **Integrated Development Environment:** Jupyter-Notebook, Visual Studio, PyCharm.
 
