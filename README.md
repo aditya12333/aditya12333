@@ -11,7 +11,7 @@
 
 <h3 align="left">Socials</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aditya-kumar-pandey35a309186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-kumar-pandey35a309186" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aditya-pandey26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-kumar-pandey35a309186" height="30" width="40" /></a>
 <a href="https://medium.com/@adityapande107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adityapande107" height="30" width="40" /></a>
 </p>
 
