@@ -1,7 +1,7 @@
 # Aditya Kumar Pandey
 
 **Machine Learning Engineer · AI Engineer · Data Scientist**  
-MSc Data Science, London School of Economics and Political Science · London, UK
+MSc Data Science, **London School of Economics and Political Science (LSE)** · London, UK
 
 I build practical ML and AI systems, from messy data and careful evaluation to APIs and tools people can use. My work spans financial risk analysis, research and patent search, and information extraction for logistics.
 
