@@ -1,53 +1,29 @@
-<h1 align="center">Hi 👋, I'm Aditya Kumar Pandey</h1>
-<h3 align="center">A passionate Machine Learning Engineer, NLP Engineer and AI Engineer from India</h3>
-<img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="300">
+# Aditya Kumar Pandey
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya12333&label=Profile%20views&color=0e75b6&style=flat" alt="aditya12333" /> </p>
+**Machine Learning Engineer · AI Engineer · Data Scientist**  
+MSc Data Science, London School of Economics and Political Science · London, UK
 
-- 🔭 Completed **Master Data Science form The London School of Economics and Political Science (LSE)**
-- 📝 I regularly write articles on [https://adityapande107.medium.com/](https://adityapande107.medium.com/)
+I build practical ML and AI systems, from messy data and careful evaluation to APIs and tools people can use. My work spans financial risk analysis, research and patent search, and information extraction for logistics.
 
-- 📫 How to reach me **adityapande107@gmail.com**
+[LinkedIn](https://www.linkedin.com/in/aditya-pandey26/) · [Writing on Medium](https://medium.com/@adityapande107) · [Email me](mailto:adityapande107@gmail.com)
 
-<h3 align="left">Socials</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aditya-pandey26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-kumar-pandey35a309186" height="30" width="40" /></a>
-<a href="https://medium.com/@adityapande107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adityapande107" height="30" width="40" /></a>
-</p>
+## Selected projects
 
-Passionate Data Scientist skilled in Machine Learning, Natural Language Processing (NLP), and computer vision. Adept at enhancing business strategies through the application of Artificial Intelligence. Enthusiastic about tackling novel challenges and applying expertise to drive innovative solutions. 
+| Project | What I built |
+| --- | --- |
+| [Predictive Maintenance Platform](https://github.com/aditya12333/Predictive-Maintenance-Platform-ML) | An equipment health system using NASA C-MAPSS data, with validated datasets, durable telemetry ingestion, remaining useful life models, governed model promotion, and operational APIs. |
+| [Cloud Cost Decision Agent](https://github.com/aditya12333/Cloud-Cost-optimization---Agentic-AI) | A FinOps investigation workflow that examines billing, usage, credits, and cost drivers before deciding whether to wait, gather evidence, ask a human, or escalate. |
+| [QuantSentinel](https://github.com/aditya12333/Quant-Agentic-AI) | A research validation platform that checks an ETF momentum strategy for data integrity, look-ahead bias, costs, robustness, and benchmark performance before producing an auditable verdict. |
 
-• Experience in Data Science which include Machine Learining, Natural Language Processing(NLP), Computer Vision.
+## What I work with
 
-• Have a good knowledge of Figma, Visualization Tools like Tableau and Power BI. 
+- **Data and ML:** Python, SQL, pandas, NumPy, scikit-learn, LightGBM, PyTorch
+- **AI applications:** RAG, information retrieval, NLP, LangGraph, Vertex AI, Gemini
+- **Engineering:** FastAPI, Flask, PostgreSQL, Docker, Git, MLflow
+- **Analysis and visualisation:** exploratory analysis, time series, Plotly, Streamlit
 
-• Skilled in creating API with frameworks like Flask, Django, Fast API. 
+I care about reproducible results, clear data contracts, leakage-safe evaluation, and knowing when a system needs human review.
 
-• Experince in Python programming and SQL. 
+## Get in touch
 
-• Worked for industry clients and have experience working with Logistics clients, artificial intelligence companies. 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-### Tools | Frameworks 
-
-**Data Preprocessing:** NumPy, Pandas. 
-
-**Machine and Deep Learning Implementation Framework:** Scikit-Learn, PyTorch, Tensorflow, SciPy. 
-
-**Natural Language Processing:** NLTK, BERT, Spacy.
-
-**Development:** Python, Flask, Fast API, Git, Docker. 
-
-**Data Visualization:** Matplotlib, Tableau, Seaborn. 
-
-**Cloud Services:** Azure, AWS, Google Cloud Platform (GCP). 
-
-**Integrated Development Environment:** Jupyter-Notebook, Visual Studio, PyCharm.
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya12333&show_icons=true&locale=en&layout=compact&theme=dark" alt="aditya12333" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya12333&show_icons=true&locale=en&theme=dark" alt="aditya12333" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya12333&theme=dark" alt="aditya12333" /></p>
+I'm interested in ML engineering, AI engineering, and data science opportunities in the UK. Reach me at **[adityapande107@gmail.com](mailto:adityapande107@gmail.com)** or connect on **[LinkedIn](https://www.linkedin.com/in/aditya-pandey26/)**.
